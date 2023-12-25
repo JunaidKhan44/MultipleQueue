@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultipleQueue", "MultipleQueue\MultipleQueue.vcxproj", "{43095435-4F02-489B-8272-C600EA1BBCDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43095435-4F02-489B-8272-C600EA1BBCDE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{43095435-4F02-489B-8272-C600EA1BBCDE}.Debug|Win32.Build.0 = Debug|Win32
+		{43095435-4F02-489B-8272-C600EA1BBCDE}.Release|Win32.ActiveCfg = Release|Win32
+		{43095435-4F02-489B-8272-C600EA1BBCDE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
